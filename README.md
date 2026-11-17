@@ -70,7 +70,7 @@ My work spans three connected disciplines:
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/slmn-pr/dotone-play">
-        <img src="https://img.shields.io/badge/DotOne%20Play-Product%20prototype-171D2B?style=for-the-badge&logo=vercel&logoColor=white" alt="DotOne Play product prototype" width="100%" />
+        <img src="./assets/dotone-play-cover.svg" alt="DotOne Play phase 1 concept preview" width="100%" />
       </a>
       <h3><a href="https://github.com/slmn-pr/dotone-play">04 · DotOne Play</a></h3>
       <p>A Persian RTL, responsive concept for a reward-based gaming experience.</p>
