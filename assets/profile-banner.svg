@@ -1,0 +1,43 @@
+<svg width="1200" height="340" viewBox="0 0 1200 340" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="70" y1="16" x2="1136" y2="352" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1220"/>
+      <stop offset="0.55" stop-color="#111B32"/>
+      <stop offset="1" stop-color="#17132D"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="770" y1="28" x2="1110" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#60A5FA"/>
+      <stop offset="0.52" stop-color="#818CF8"/>
+      <stop offset="1" stop-color="#C084FC"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(970 160) rotate(90) scale(220 350)">
+      <stop stop-color="#6366F1" stop-opacity="0.32"/>
+      <stop offset="1" stop-color="#6366F1" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M44 0H0V44" stroke="#A5B4FC" stroke-opacity="0.08" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="340" rx="26" fill="url(#bg)"/>
+  <rect width="1200" height="340" rx="26" fill="url(#grid)"/>
+  <rect width="1200" height="340" rx="26" fill="url(#glow)"/>
+  <circle cx="1000" cy="164" r="126" stroke="url(#accent)" stroke-opacity="0.35" stroke-width="1.5"/>
+  <circle cx="1000" cy="164" r="91" stroke="url(#accent)" stroke-opacity="0.5" stroke-width="1.5" stroke-dasharray="5 9"/>
+  <circle cx="1000" cy="164" r="54" fill="url(#accent)" fill-opacity="0.11" stroke="url(#accent)" stroke-width="1.5"/>
+  <path d="M874 164H932M1068 164H1126M1000 38V92M1000 236V290" stroke="url(#accent)" stroke-opacity="0.58" stroke-width="1.5"/>
+  <circle cx="1000" cy="164" r="9" fill="#C4B5FD"/>
+  <circle cx="874" cy="164" r="4" fill="#60A5FA"/>
+  <circle cx="1126" cy="164" r="4" fill="#C084FC"/>
+  <circle cx="1000" cy="38" r="4" fill="#818CF8"/>
+  <circle cx="1000" cy="290" r="4" fill="#60A5FA"/>
+  <path d="M760 68L810 68L830 48M1090 274L1134 274L1154 254" stroke="#A5B4FC" stroke-opacity="0.3" stroke-width="1.5"/>
+  <circle cx="810" cy="68" r="3" fill="#A5B4FC"/>
+  <circle cx="1134" cy="274" r="3" fill="#A5B4FC"/>
+  <text x="78" y="92" fill="#93C5FD" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" letter-spacing="4">SALMAN  /  SYTHON</text>
+  <text x="74" y="166" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="53" font-weight="700" letter-spacing="-1.5">Engineering with</text>
+  <text x="74" y="226" fill="url(#accent)" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="53" font-weight="700" letter-spacing="-1.5">purpose &amp; perspective.</text>
+  <text x="78" y="274" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" letter-spacing="1.2">CODE  ·  DESIGN  ·  PRODUCT THINKING</text>
+  <rect x="78" y="302" width="54" height="4" rx="2" fill="#60A5FA"/>
+  <rect x="139" y="302" width="25" height="4" rx="2" fill="#818CF8"/>
+  <rect x="171" y="302" width="12" height="4" rx="2" fill="#C084FC"/>
+</svg>
