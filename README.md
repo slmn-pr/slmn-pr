@@ -106,15 +106,26 @@ I care about the reasoning behind an implementation as much as the code itself: 
 - Three.js, WebGL, and interactive 3D experiences
 - AI-assisted development and multi-agent workflows
 
-## GitHub contributions
+## How I contribute
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/4776E6/slmn-pr" alt="GitHub contribution activity for slmn-pr" width="100%" />
-</p>
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🎨 Design Leadership</h3>
+      <p>Turn product goals into clear design tasks, prioritize the work, review Figma deliverables, and keep design decisions aligned with implementation realities.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🧭 Product Thinking</h3>
+      <p>Clarify the user problem, challenge assumptions, balance value against effort, and separate MVP essentials from future opportunities.</p>
+    </td>
+    <td width="34%" valign="top">
+      <h3>⚙️ Frontend Engineering</h3>
+      <p>Translate user flows and design systems into maintainable React and Next.js applications with TypeScript, reusable components, and thoughtful interaction details.</p>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <a href="https://github.com/slmn-pr?tab=repositories">Explore all repositories →</a>
-</p>
+<p align="center"><em>I enjoy connecting these perspectives to help teams move from an unclear idea to a useful, well-crafted product.</em></p>
 
 ---
 
